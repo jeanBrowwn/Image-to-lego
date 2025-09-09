@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Image to LEGO",
+  "description": "An application that converts any uploaded image into a detailed LEGO blueprint, providing a visual LEGO version, a precise parts list, and build specifications using the Gemini API.",
+  "requestFramePermissions": []
+}
